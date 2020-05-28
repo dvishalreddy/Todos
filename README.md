@@ -1,6 +1,6 @@
 # Todos
 <h2>Version 1.0</h2>
-<a src="https://todoswastaken.netlify.app">Todos</a>
+<a href="https://todoswastaken.netlify.app">Todos</a>
 <p>Yet another simple and minimalistic looking todo list app. Just kidding(Actually no).</p><br>
 <p>Frustrated with all the todo list apps on the market that have unnecessary options and an annoying number of options?<br>
 We'll you have come to the right place!This app serves only ONE purpose and that is exactly what it does.<br>
